@@ -1,11 +1,6 @@
 # Final_Maths_DL_Project
 
 
-
-VISHAL SINGH THAKUR 
-
-JUAN SEBASTIAN SIERRA ARIZA 
-
 # Fine-Tuning LSTM and BERT Transformer Models for COVID-19 Tweets - Text Classification
 
 ## Introduction
